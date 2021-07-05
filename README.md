@@ -9,6 +9,6 @@ Instructions: (Chrome)
 2. Go to chrome://extensions/ and check the box for Developer mode in the top right.
 3. Click the Load unpacked extension button and select the /src folder to install.
 
-That's it. You should now have comfy flashing red warnings when you have stumbled into a slide thread on /pol.
+That's it. You should now have comfy flashing red warnings when you have stumbled into a slide thread on /biz /tv or /pol.
 
 Published under GPL.
